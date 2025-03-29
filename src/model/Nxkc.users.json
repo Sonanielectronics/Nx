@@ -1,0 +1,62 @@
+[
+  {
+  "_id": {
+    "$oid": "67e82ce8a0a93e4089382460"
+  },
+  "Name": "Jay",
+  "Phone": "9106871899",
+  "Email": "Jay@Gmail.com",
+  "Password": "$2a$10$Cag8/a2bAvpxzevtBm27nOoNeipVuwMnW5vLdlNme.KWyNmYXY5X2",
+  "OTP": "",
+  "Wallet": 0,
+  "AccountActivationCode": "67e82ce8a0a93e408938246067e82ce8a0a93e4089382460",
+  "AccountType": "Admin",
+  "createdAt": {
+    "$date": "2025-03-29T17:24:56.424Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-29T17:24:56.424Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67c5d5c53777dbbd62065b43"
+  },
+  "Name": "Riya ",
+  "Phone": "8077156760",
+  "Email": "800nitinrajput@gmail.com",
+  "Password": "$2a$10$W8uTszYx/nVRj/yYswhLg.opXhVdbvFbFd/xufUogZYyQw4un0A3K",
+  "OTP": "",
+  "Wallet": 0,
+  "AccountActivationCode": "67c2194511dafb5bc32ebb9067c2194511dafb5bc32ebb90",
+  "AccountType": "User",
+  "createdAt": {
+    "$date": "2025-03-03T16:16:05.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-03T16:16:05.408Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67cefbb2fe94ca681ce566ba"
+  },
+  "Name": "Vichitr Patel ",
+  "Phone": "9125175809 ",
+  "Email": "ayockyff@gmail.com",
+  "Password": "$2a$10$jlzmTk0O21ZtYkJxozlxKe794MP8dvlaP.kV6/1v/851kPI9wRFUW",
+  "OTP": "",
+  "Wallet": 0,
+  "AccountActivationCode": "67c2194511dafb5bc32ebb9067c2194511dafb5bc32ebb90",
+  "AccountType": "User",
+  "createdAt": {
+    "$date": "2025-03-10T14:48:18.138Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-10T14:48:18.138Z"
+  },
+  "__v": 0
+}
+]
